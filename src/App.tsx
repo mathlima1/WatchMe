@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 import { SideBar } from './components/SideBar';
-import { Header } from './components/header';
+import { Header } from './components/Header';
 import { Content } from './components/Content';
 
 import './styles/global.scss';
